@@ -77,10 +77,7 @@ int verificaBissexto(int ano){
     int n;
     int resto;
     n = ano % 100;
-    while(n >= 4){
-        resto = n % 4;
-        n = n/4;
-    }
+    resto = n % 4;
     if (resto == 0){
         return 1;
     }
@@ -182,7 +179,7 @@ int calculaDiferencaDias(int dia1, int mes1, int ano1, int dia2, int mes2, int a
                 for(i = mes2; i < mes1; i++){
                     dif_mes += numeroDiasMes(i,ano1);
                 }
-                for(i=dia2; i<dia1-1; i++){
+                for(i=dia2; i<dia1; i++){
                     dif_dias += 1;
                 }
             }
