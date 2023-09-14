@@ -1,0 +1,4 @@
+Resultados/Daniel/completo/data.c: In function ‘comparaData’:
+Resultados/Daniel/completo/data.c:122:1: warning: control reaches end of non-void function [-Wreturn-type]
+  122 | }
+      | ^
