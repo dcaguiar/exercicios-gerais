@@ -1,10 +1,10 @@
 15
-Maria Silva
+Maria Rodrigues
 Joao Rodrigues
 Ana Oliveira
 Pedro Souza
 Laura Rodrigues
-Lucas Pereira
+Lucas Alves
 Sofia Pereira
 Matheus Alves
 Isabela Alves
@@ -18,5 +18,5 @@ Felipe Oliveira
 mae: 2, pai: -1, filho: 14
 mae: 4, pai: 1, filho: 13
 mae: 11, pai: 7, filho: 8
-mae: -1, pai: 12, filho: 0
-mae: 6, pai: -1, filho: 5
+mae: 4, pai: 1, filho: 0
+mae: 11, pai: 7, filho: 5
